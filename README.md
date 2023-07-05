@@ -16,4 +16,4 @@ HTML and CSS: I used  HTML and CSS to structure and style the web app.
 
 
 
-![Screenshot 2023-07-05 171451](https://github.com/moayyadsaleh/the-unsplash-photo-gallery/assets/137034202/a9cb04ab-0680-4dd7-96d6-c2c863823465)
+![Screenshot 2023-07-05 171451](https://github.com/moayyadsaleh/the-unsplash-photo-gallery/assets/137034202/7b74291d-faa0-4e6e-9d30-2788f3bdb241)
