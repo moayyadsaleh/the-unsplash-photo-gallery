@@ -1,5 +1,5 @@
 # the-unsplash-photo-gallery
-The Unsplash Photo Gallery is a web application that fetches and displays photos from the Unsplash API. It provides a user-friendly interface to explore and view a collection of high-quality, royalty-free images from various photographers around the world.
+The Unsplash Photo Gallery is a web application that fetches and displays photos from the Unsplash API  to allow for infinite scrolling. It provides a user-friendly and responsive interface to explore and view a collection of high-quality, royalty-free images from various photographers around the world.
 
 Technical Skills Used
 I used the following technologies to create this web app:
