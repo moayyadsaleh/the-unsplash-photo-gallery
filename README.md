@@ -15,5 +15,8 @@ Event Handling: I employed event listeners, such as the scroll event, to trigger
 HTML and CSS: I used  HTML and CSS to structure and style the web app.
 
 
+Live Demo:https://moayyadsaleh.github.io/the-unsplash-photo-gallery/
+
+
 
 ![Screenshot 2023-07-05 171451](https://github.com/moayyadsaleh/the-unsplash-photo-gallery/assets/137034202/7b74291d-faa0-4e6e-9d30-2788f3bdb241)
